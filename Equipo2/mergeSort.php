@@ -1,5 +1,5 @@
 <?php
-function mergeSort(array $arr): array {
+function mergeSort(array $arr) {
     // Si el array tiene un solo elemento, ya está ordenado.
     if (count($arr) <= 1) {
         return $arr;
@@ -18,7 +18,7 @@ function mergeSort(array $arr): array {
     return merge($left, $right);
 }
 
-function merge(array $left, array $right): array {
+function merge(array $left, array $right){
     $result = [];
 
     // Mientras ambas mitades tengan elementos, se compara y ordena
