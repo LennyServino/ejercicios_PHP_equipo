@@ -15,3 +15,4 @@ Este proyecto contiene una serie de ejercicios resueltos en PHP. Cada archivo PH
 * Erick Montoya
 * Mateo Canales
 * Lenny Servino
+* Gabriel Alegria
