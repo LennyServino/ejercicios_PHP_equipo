@@ -10,8 +10,17 @@ Este proyecto contiene una serie de ejercicios resueltos en PHP. Cada archivo PH
 - `ejercicio4.php`: Contiene la clase `Solution` con el método `search` que implementa una búsqueda binaria en un array.
 - `ejercicio5.php`: Contiene la función `isHappy` que determina si un número es un número feliz.
 
-## Equipo
+## Equipo 1
 * Diego Majano
 * Erick Montoya
 * Mateo Canales
+* Gabriel Castillo
 * Lenny Servino
+
+## Equipo 2
+* Rafael Arévalo
+* Lenny Servino
+* Celina Hernandez
+* Gabriel Castillo
+* Luis Tobar
+* Iván Calderón
