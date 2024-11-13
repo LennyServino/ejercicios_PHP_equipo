@@ -14,6 +14,7 @@ Este proyecto contiene una serie de ejercicios resueltos en PHP. Cada archivo PH
 * Diego Majano
 * Erick Montoya
 * Mateo Canales
+* Gabriel Castillo
 * Lenny Servino
 
 ## Equipo 2
